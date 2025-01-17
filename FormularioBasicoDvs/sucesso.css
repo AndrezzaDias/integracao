@@ -1,0 +1,40 @@
+/* sucesso.css */
+body {
+    background-color: #F0F8FF;
+    font-family: sans-serif;
+    color: #59429d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.sucesso-container {
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 40px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 70%;
+    max-width: 600px;
+}
+
+h1 {
+    color: #380861;
+}
+
+.botao {
+    background-color: #59429d;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+}
+
+.botao:hover {
+    background-color: #ccbbff;
+}
