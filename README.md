@@ -60,4 +60,4 @@ Siga os passos abaixo para configurar e executar os testes automatizados do proj
 
 Dúvidas ou sugestões? Entre em contato pelos canais abaixo:
 
-- **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-perfil)
+- **LinkedIn:** [Andreza Dias](https://www.linkedin.com/in/andreza-dias-3186a3146/)
